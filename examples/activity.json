@@ -1,0 +1,11 @@
+{
+  "events": [
+    {"date": "2026-10-14", "repository": "pdf-chat-assistant", "type": "commit", "count": 2},
+    {"date": "2026-10-14", "repository": "pdf-chat-assistant", "type": "issue", "count": 1},
+    {"date": "2026-10-16", "repository": "skills-demand-dashboard", "type": "commit", "count": 3},
+    {"date": "2026-10-17", "repository": "skills-demand-dashboard", "type": "pull_request", "count": 1},
+    {"date": "2026-10-20", "repository": "pdf-chat-assistant", "type": "commit", "count": 1},
+    {"date": "2026-10-21", "repository": "applytrack", "type": "commit", "count": 2},
+    {"date": "2026-10-21", "repository": "applytrack", "type": "review", "count": 1}
+  ]
+}
